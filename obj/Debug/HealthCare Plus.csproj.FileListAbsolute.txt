@@ -1,0 +1,58 @@
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\HealthCare Plus.exe.config
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\HealthCare Plus.exe
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\HealthCare Plus.pdb
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\Guna.UI.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare Plus.csproj.AssemblyReference.cache
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare Plus.csproj.SuggestedBindingRedirects.cache
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.Form1.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.Properties.Resources.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare Plus.csproj.GenerateResource.cache
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare Plus.csproj.CoreCompileInputs.cache
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare Plus.csproj.CopyComplete
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare Plus.exe
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare Plus.pdb
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.Log_in.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.Sign_up.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.Home_page.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.user_profile.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.password_and_security.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.doctors.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.Patients.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\BouncyCastle.Crypto.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\Google.Protobuf.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\K4os.Compression.LZ4.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\K4os.Hash.xxHash.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\MySql.Data.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Buffers.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.IO.Pipelines.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Memory.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Numerics.Vectors.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\ZstdSharp.dll
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\BouncyCastle.Crypto.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\Google.Protobuf.pdb
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\Google.Protobuf.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\K4os.Compression.LZ4.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\K4os.Hash.xxHash.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\MySql.Data.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Buffers.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.IO.Pipelines.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Memory.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Numerics.Vectors.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.Appointments.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.Available_rooms_and_theaters.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.Billing_and_Invoice.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.doctorprofiles.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.Healthcare_resources.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.Medication_records.resources
+E:\top up in software engineering (LMU)\AD\apps\HealthCare Plus\obj\Debug\HealthCare_Plus.CustomizableReport.resources
